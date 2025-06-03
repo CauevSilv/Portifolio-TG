@@ -101,6 +101,48 @@ MYSQL: realizei pequenos ajustes para corrigir alguns pontos. Não precisei real
 - Comunicação: tive que ficar muito em contato com o PO por conta da situação da equipe na metade do projeto. Acabei aprendendo mais sobre as demandas do cliente e em como ele pensa e se comunica com o PO.
 - Pressão: Aprendi a lidar com muita pressão por conta da sobrecarga de tasks que tive que assumir. Muita coisa era entregue incompleta/não funcional e tive que realizar os ajustes em pouco tempo;
 
+
+### Em 2024-2
+ O problema aprensetado pela parceira ITO1 foi a criação de uma aplicação para disponibilizar de maneira visual dados de geolocalização provenientes de dispositivos IOT.
+ A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados enviados pelo cliente de uma maneira simples e com distinção de tempo entre coordenadas.
+
+
+[GIT-SERVER](https://github.com/manolito-fatec/web-server-2024-1)
+[GIT-CLIENT](https://github.com/manolito-fatec/web-client-2024-1)
+
+#### Tecnologias Utilizadas
+- HTML: linguagem de programação para criação de páginas Web;
+- CSS: linguagem para aplicação de estilos em códigos HTML;
+- TypeScript: linguagem variante de JavaScript que adiciona tipagem ao código;
+- Vue.js: framework JavaScript para o desenvolvimento de SPA (Single Page Application) e facilitador na criação de códigos reutilzáveis;
+- Java: linguagem de programação orientada a objetos;
+- Spring Boot: framework Java para desenvolvimento de Rest APIs;
+- PostgresSql: banco de dados com schemas para o DW e para a aplicação.
+- IntelliJ IDEA: IDE para desenvolvimento Java;
+- Visual Studio Code: editor de código-fonte multifuncional. No escopo do projeto utilizado para desenvolvimento de Vue.js;
+- WebStorm: IDE da JetBrains focado em front-end. Utilizado para desenvolvimento do front end e para facilitar o debug;
+- DBeaver: ferramenta utilizada para facilitar a visualização do banco;
+- Figma: ferramenta utilizada para desenvolvimento de Mockups e Wireframes;
+- Discord: ferramenta para comunicação interna do grupo;
+- Slack: ferramenta para comunicação com o cliente
+
+#### Contribuições Pessoais
+- Desenvolvi o componente principal do projeto, que é o componente que contém o mapa-mundi interativo que é utilizado como base para o resto;
+- Desenvolvi os métodos utilizados para interação de dados com o mapa, como a exibição de geometrias;
+- Criei os métodos que permitiam a criação/edição de geometrias diretamente pelo mapa, salvando-as no banco;
+- Criei os métodos que realizavam operações espaciais entre as geometrias salvas de forma visual.
+- Desenvolvi diversas chamadas a API e integrei as mesmas ao mapa;
+- Desenvolvi o componente de controle das ferramentas de edição, possibilitando a troca de ferramentas e seleção de geometrias temporárias.
+
+#### Hard Skills
+- Spring Boot: sei fazer com autonomia a arquitetura MVC do projeto;
+- Oracle: tenho muito pouco conhecimento sobre;
+- TypeScript: sei fazer com autonomia e consigo ajudar outros membros;
+- Vue.Js: sei fazer com autonomia;
+
+#### Soft Skills
+- Iniciativa: tomei a frente do front-end do projeto com os componentes mais complexos.
+
 ### Em 2025-1
  O problema aprensetado pela parceira Youthan foi a criação de uma aplicação para melhorar o gerenciamento de projetos de algumas ferramentas de forma centralizada.
  O projeto tinha o intuito de facilitar a rotina dos gestores de projeto, que tinham que ficar trocando de ferramentas para poder acompanhar as tasks e projetos, datas de vencimento, status dos cards, quantidade de issues, entre outros.
