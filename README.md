@@ -101,49 +101,6 @@ MYSQL: realizei pequenos ajustes para corrigir alguns pontos. Não precisei real
 - Comunicação: tive que ficar muito em contato com o PO por conta da situação da equipe na metade do projeto. Acabei aprendendo mais sobre as demandas do cliente e em como ele pensa e se comunica com o PO.
 - Pressão: Aprendi a lidar com muita pressão por conta da sobrecarga de tasks que tive que assumir. Muita coisa era entregue incompleta/não funcional e tive que realizar os ajustes em pouco tempo;
 
-### Em 2024-1
-  O problema foi apresentado pela parceira Dom Rock, uma empresa de dados e tecnologia de São José dos Campos que oferece serviços de tratamento de dados. A parceira recebe diversas entradas de dados como arquivos .xlsx ou .csv até mais complexos como gravações de voz e fotos e trata as informações através de uma pipeline que transforma os dados em consumíveis para a empresa cliente tomar decisões com base em dados.
-  
-  O desafio proposto envolveu o início da pipeline de dados da empresa parceira, sendo dividido em três etapas. A primeira (denominada Landing Zone) envolve a entrada de um arquivo. No caso do desafio proposto, um arquivo .csv. a segunda (denominada Bronze) tratava-se da definição do identificador único das informações do arquivo (ID), a escolha de colunas que geram um hash e a exclusão de informações sem relevância. Por fim, a terceira etapa (denominada Silver) é onde foram aplicadas as regras de negócio, além da possibilidade de criar relacionamentos de 'De/Para' para a conversão de informação para dados mais consumívels.
-
-  A equipe Wiz propôs e entregou a solução 'Pipeline Configurator', uma aplicação web desenvolvida com front-end Vue.js, servidor Java Spring Boot e banco de dados MySQL.
-
-
-[GIT](https://github.com/CauevSilv/dom-rock-pipeline-configurator)
-
-#### Tecnologias Utilizadas
-- HTML: linguagem de programação para criação de páginas Web;
-- CSS: linguagem para aplicação de estilos em códigos HTML;
-- TypeScript: linguagem variante de JavaScript que adiciona tipagem ao código;
-- Vue.js: framework JavaScript para o desenvolvimento de SPA (Single Page Application) e facilitador na criação de códigos reutilzáveis;
-- Java: linguagem de programação orientada a objetos;
-- Spring Boot: framework Java para desenvolvimento de Rest APIs;
-- MySQL: simples SGDB da Oracle para armazenamento de dados da aplicação;
-- IntelliJ IDEA: IDE para desenvolvimento Java;
-- Visual Studio Code: editor de código-fonte multifuncional. No escopo do projeto utilizado para desenvolvimento de Vue.js;
-- Figma: ferramenta utilizada para desenvolvimento de Mockups e Wireframes;
-- Discord: ferramenta para comunicação interna do grupo;
-- Slack: ferramenta para comunicação com o cliente
-
-#### Contribuições Pessoais
-- Desenvolvi a tela de gerenciamento de usuários, com as respectivas funções para criar, editar e deletar um usuário;
-- Ajudei no desenvolvimento de algumas telas com outros membros do grupo;
-- Ajustei diversos pontos no back/front end do projeto em relação as permissões do user;
-- Propus algumas mudanças no back-end que auxiliaram na organização das integrações com o front. 
-
-
-#### Hard Skills
-- Java: sei fazer com autonomia;
-- Spring Boot: sei fazer com autonomia a arquitetura MVC do projeto;
-- SQL: sei fazer com auxilio as funções mais complexas;
-- TypeScript: sei fazer com autonomia;
-- Vue.Js: sei fazer com auxilio
-
-#### Soft Skills
-- Trabalho em equipe: assumi uma parte do front-end com intuito de ajudar os colegas com essa parte do projeto.
-- Comunicação: me comuniquei constantemente com membros da equipe para retirada de dúvidas, sprint-reviews e dailys.
-- Pensamento analítico: ajustei grande parte das roles do projeto com base no que ele deveria fazer, após analisar melhor os requisitos solicitados. 
-
 ### Em 2025-1
  O problema aprensetado pela parceira Youthan foi a criação de uma aplicação para melhorar o gerenciamento de projetos de algumas ferramentas de forma centralizada.
  O projeto tinha o intuito de facilitar a rotina dos gestores de projeto, que tinham que ficar trocando de ferramentas para poder acompanhar as tasks e projetos, datas de vencimento, status dos cards, quantidade de issues, entre outros.
