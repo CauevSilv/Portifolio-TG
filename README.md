@@ -2,14 +2,14 @@
 
 ## Introdução
 
-Tenho 23 anos, estou formando no curso de Banco de Dados na Fatec. Estou atrabalhando a mais de um ano na empresa Geopixel, no Parque Técnológico, aonde fui estagiário por 5 meses e analista até os dias atuais. Já trabalhei na CAOA Chery de 2020 a 2023, passando pelo setor de Manutenção (cuidava do almoxarifado) e pelo setor de T.I.
+Tenho 23 anos, estou formando no curso de Banco de Dados na Fatec. Estou atrabalhando a mais de dois anos na empresa Geopixel, no Parque Técnológico, aonde fui estagiário por 5 meses e analista até os dias atuais. Já trabalhei na CAOA Chery de 2020 a 2023, passando pelo setor de Manutenção (cuidava do almoxarifado) e pelo setor de T.I.
 
 ## Contatos
 * [GIT](https://github.com/CauevSilv)
 * [LinkedIn](https://www.linkedin.com/in/caue-vieira-da-silva/)
 
 ## Meus Principais Conhecimentos
-* PostgreSQL
+* PostgreSQL, Oracle, Mysql
 * Java
   * Spring Boot MVC
   * JPA & Hibernate
@@ -17,8 +17,12 @@ Tenho 23 anos, estou formando no curso de Banco de Dados na Fatec. Estou atrabal
   * JWT, Bearer Tokens, Session Cookies
 * Docker e docker compose
 * Javascript e Typescript
-* Vue.js 3
+* Vue.js 3, React
+* MongoDB
+
+## Conceitos
 * Object Oriented Programming (OOP)
+* Design Patterns - Factory, Observer, Builder, Singleton
 
 ## Meus Projetos
 
