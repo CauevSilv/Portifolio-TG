@@ -142,20 +142,29 @@ Git -[GIT-CLIENT](https://github.com/manolito-fatec/web-client-2024-1)
 
 #### Contribuições Pessoais
 - Desenvolvi o componente principal do projeto, que é o componente que contém o mapa interativo que é utilizado como base para o resto;
+  <img width="1904" height="950" alt="image" src="https://github.com/user-attachments/assets/be6d8649-7d92-44ef-b345-d08c9702e8e9" />
+
 - Desenvolvi os métodos utilizados para interação de dados com o mapa, como a exibição de geometrias;
+  <img width="1252" height="904" alt="image" src="https://github.com/user-attachments/assets/71549b11-9012-4ce8-af18-9210ac17e54d" />
+
 - Criei os métodos que permitiam a criação/edição de geometrias diretamente pelo mapa, salvando-as no banco;
+  <img width="1812" height="887" alt="image" src="https://github.com/user-attachments/assets/4205f523-2e88-45ba-915e-fb59731d25ad" />
+
 - Criei os métodos que realizavam operações espaciais entre as geometrias salvas de forma visual.
+  <img width="803" height="187" alt="image" src="https://github.com/user-attachments/assets/d0e275b5-6963-4f34-97cf-4e2a6f130be9" />
+
 - Desenvolvi diversas chamadas a API e integrei as mesmas ao mapa;
 - Desenvolvi o componente de controle das ferramentas de edição, possibilitando a troca de ferramentas e seleção de geometrias temporárias.
 
 #### Hard Skills
-- Spring Boot: sei fazer com autonomia a arquitetura MVC do projeto;
-- Oracle: tenho muito pouco conhecimento sobre;
+- Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core;
+- Oracle: sei fazer com ajuda/consulta;
 - TypeScript: sei fazer com autonomia e consigo ajudar outros membros;
 - Vue.Js: sei fazer com autonomia;
 
 #### Soft Skills
 - Iniciativa: tomei a frente do front-end do projeto com os componentes mais complexos.
+- Comunicação: auxiliei o time ensinando como funcionam as relações espaciais e algumas lógicas simples (CONTAINS, TRANSFORM, etc..)
 
 ### Em 2025-1
  O problema aprensetado pela parceira Youthan foi a criação de uma aplicação para melhorar o gerenciamento de projetos de algumas ferramentas de forma centralizada.
