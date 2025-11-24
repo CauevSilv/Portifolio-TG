@@ -26,7 +26,10 @@ Tenho 23 anos, estou formando no curso de Banco de Dados na Fatec. Estou atrabal
 
 ## Meus Projetos
 
-### Em 2023-1
+## Em 2023-1
+### eVal360
+Git - [Repositório do eVal360](https://github.com/CauevSilv/DevMinds)
+
 O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX com o desafio de desenvolver desenvolver uma aplicação de Avaliação 360° para uso interno da instituição de ensino. 
 
 A solução foi entregue pela equipe de desenvolvimento DevMinds na qual atuei como dev. A aplicação desenvolvida era utilizada via terminal e possuia alguns dashboards com uma interface gráfica simples somente para exibição do gráfico.
@@ -43,7 +46,6 @@ O projeto teve os seguintes requisitos:
 - Dashboards gerenciais
 > Visualização em gráficos para gestores analisarem as notas dos fatores de avaliação de individuos em uma turma e médias de uma turma com identificação visual para fatores com notas acima e abaixo da média.
 
-[Repositório do eVal360](https://github.com/CauevSilv/DevMinds)
 
 #### Tecnologias Utilizadas
 - Visual Studio Code: editor de código-fonte multifuncional. No escopo do projeto utilizado para desenvolvimento da linguagem Python;
@@ -58,7 +60,7 @@ O projeto teve os seguintes requisitos:
 #### Contribuições Pessoais
 - Colaborei com os ajustes no login e cadastro;
 - Adicionei o suporte ao encoding UTF-8 ao projeto;
-- Refiz o componente de leitura e escritda do CSV(banco) do projeto;
+- Refiz o componente de leitura e escrita do CSV(banco) do projeto;
 - Ajustei diversos pontos do projeto que estavam incorretos.
 
 #### Hard Skills
@@ -68,11 +70,14 @@ O projeto teve os seguintes requisitos:
 - Comunicação com a equipe: melhorei minha capacidade de interação com a equipe;
 - Gerenciamento de tempo: com o SCRUM, aprendi a lidar melhor com o tempo estipulado das tarefas.
 
-### Em 2023-2
+## Em 2023-2
+### SGTG - Sistema Gerenciador de Trabalhos de Gradução
+
+Git - [SGTG (Sistema Gerenciador de Trabalhos de Graduação)](https://github.com/CauevSilv/API-2-Semestre-DevMinds)
+
 O desafio proposto foi o desenvolvimento de uma ferramenta para gerenciamento de trabalhos de graduação de uso interno da instituição de ensino, sendo o cliente a própria FATEC. A aplicação deve gerir as matérias/semestres, alunos matriculados nas matérias, regras de negócio envolvendo os diferentes tipos de TG, entrega de atividades, atribuição de notas, retorno de feedbacks e geração de relatórios.
 A solução entregue foi o SGTG (Sistema Gerenciador de Trabalho de Graduação), uma aplicação em desktop para uso dos próprios professores que ministram as matérias de Trabalho de Graduação. A aplicação recebe como entrada um arquivo de respostas de um Google Forms em CSV e popula os dados dos alunos para seu uso.
 
-[SGTG (Sistema Gerenciador de Trabalhos de Graduação)](https://github.com/CauevSilv/API-2-Semestre-DevMinds)
 
 #### Tecnologias Utilizadas
 - Java: linguagem para manuseio dos dados e manipulação da lógica da aplicação;
@@ -106,13 +111,18 @@ MYSQL: realizei pequenos ajustes para corrigir alguns pontos. Não precisei real
 - Pressão: Aprendi a lidar com muita pressão por conta da sobrecarga de tasks que tive que assumir. Muita coisa era entregue incompleta/não funcional e tive que realizar os ajustes em pouco tempo;
 
 
-### Em 2024-2
+## Em 2024-2
+### GeoIot
+Git - [GIT-SERVER](https://github.com/manolito-fatec/web-server-2024-1)
+
+Git -[GIT-CLIENT](https://github.com/manolito-fatec/web-client-2024-1) 
+
  O problema aprensetado pela parceira ITO1 foi a criação de uma aplicação para disponibilizar de maneira visual dados de geolocalização provenientes de dispositivos IOT.
  A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados enviados pelo cliente de uma maneira simples e com distinção de tempo entre coordenadas.
 
-
-[GIT-SERVER](https://github.com/manolito-fatec/web-server-2024-1)
-[GIT-CLIENT](https://github.com/manolito-fatec/web-client-2024-1)
+### Funcionalidades
+* Criação e Visualização de zonas de interesse, possbilitando a filtragem por geometrias.
+* Implementação de autenticação 
 
 #### Tecnologias Utilizadas
 - HTML: linguagem de programação para criação de páginas Web;
@@ -131,7 +141,7 @@ MYSQL: realizei pequenos ajustes para corrigir alguns pontos. Não precisei real
 - Slack: ferramenta para comunicação com o cliente
 
 #### Contribuições Pessoais
-- Desenvolvi o componente principal do projeto, que é o componente que contém o mapa-mundi interativo que é utilizado como base para o resto;
+- Desenvolvi o componente principal do projeto, que é o componente que contém o mapa interativo que é utilizado como base para o resto;
 - Desenvolvi os métodos utilizados para interação de dados com o mapa, como a exibição de geometrias;
 - Criei os métodos que permitiam a criação/edição de geometrias diretamente pelo mapa, salvando-as no banco;
 - Criei os métodos que realizavam operações espaciais entre as geometrias salvas de forma visual.
