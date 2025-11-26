@@ -1,5 +1,8 @@
 <div align="center"><h1>eVal360</h1></div>
-Git - [Repositório do eVal360](https://github.com/CauevSilv/DevMinds)
+
+**1º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub - client](https://github.com/CauevSilv/DevMinds)**  
+**Empresa Parceira Interna:** PBLTeX   
+
 
 O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX com o desafio de desenvolver desenvolver uma aplicação de Avaliação 360° para uso interno da instituição de ensino. 
 
