@@ -42,14 +42,24 @@ O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de ge
 - ![img.png](images/imgYTIssueChart.png)
 - Desenvolvi diversas chamadas a API, recebendo e tratando os dados para utilização nos dashboards;
 - Fui responsável pelo deploy automático, processo que disponibiliza automaticamente a aplicação em um ambiente de produção totalmente diferente do ambiente de desenvolvimento. Realizei diversos ajustes para que a aplicação funcione no banco Oracle (originalmente era em Postgresql);
+- Desenvolvi a tela de Profile, responável por exibir dados básicos do usuário logado;
+- Implementei o gerenciamento de estado com o Pinia.
+- Ajustei alguns controllers do backend com dados sem sentido ou incorretos, e também algumas consultas desatualizadas.
+
 #### Hard Skills
+- Java: sei fazer com autonomia;
+- SQL:  sei fazer com autonomia e consigo ajudar outros membros da equipe;
 - Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core e consigo ajudar outros membros;
 - Oracle: sei fazer com ajuda/consulta;
 - TypeScript: sei fazer com autonomia e consigo ajudar outros membros;
 - Vue.Js: sei fazer com autonomia e consigo ajudar os outros membros;
 - CI: sei fazer com consulta;
+- Responsividade: sei fazer com autonomia;
+- Docker: sei fazer com autonomia;
 
 #### Soft Skills
 - Iniciativa: tomei a frente do front-end do projeto com os componentes complexos, responsividade e fui responsável pelo deploy;
 - Flexibilidade: atuei em todas as áreas da aplicação, sempre buscando autonomia sem comprometer o trabalho em equipe;
 - Comunicação: participei das reuniões semanais da equipe para discutir diversos pontos do projeto;
+- Gerenciamento de demandas: negociei demandas com outros membros da equipe para focar me uma demanda maior, e também troquei com outros para ajudá-los em situações parecidas.
+- Gerenciamento de tempo: ganhei ainda mais conehcimento com gerenciamento de tempo com diversas tasks.
