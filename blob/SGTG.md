@@ -2,7 +2,7 @@
 
 **2º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/API-2-Semestre-DevMinds)**  
 **Empresa Parceira Interna:** FATEC
-![alt text](images/imageSgtg.png)
+![alt text](imageSgtg.png)
 
 O segundo projeto desenvolvido durante a graduação foi proposto pela própria instituição de ensino com o desafio de criar uma ferramenta para gerenciamento de trabalhos de graduação de uso interno da FATEC.
 

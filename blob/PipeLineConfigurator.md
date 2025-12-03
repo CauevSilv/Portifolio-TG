@@ -3,7 +3,7 @@
 **3º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dom-rock-pipeline-configurator)**  
 **Empresa Parceira:** [DOM ROCK](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.domrock.net/&ved=2ahUKEwifuoi1gNSNAxUvrpUCHXTLPNQQFnoECAoQAQ&usg=AOvVaw17UNge8A_1VmMQvlxEoiHq)
 
-![Dom rock](/images/image.png)
+![Dom rock](/blob/image.png)
 
 O terceiro projeto desenvolvido durante a graduação foi proposto pela empresa-parceira DOM ROCK com o desafio de criar uma solução para configuração de pipelines de dados de forma visual e intuitiva.
 

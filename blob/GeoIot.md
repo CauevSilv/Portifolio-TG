@@ -2,7 +2,7 @@
 
 **4º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub - client](https://github.com/CauevSilv/web-client-2024-2-GeoIOT) • [ server](https://github.com/CauevSilv/web-server-2024-2-GeoIOT)**  
 **Empresa Parceira:** [IT01](https://br.linkedin.com/company/ito1)
-![alt text](/images/image-1.png)
+![alt text](/blob/image-1.png)
 
  O problema aprensetado pela parceira ITO1 foi a criação de uma aplicação para disponibilizar de maneira visual dados de geolocalização provenientes de dispositivos IOT.
  A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados enviados pelo cliente de uma maneira simples e com distinção de tempo entre coordenadas.
@@ -40,7 +40,7 @@
 
 - Desenvolvi diversas chamadas a API , recebendo e tratando os dados geométricos e temporais em objetos gráficos no mapa;
 - Desenvolvi o componente de controle das ferramentas de edição, possibilitando a troca de ferramentas, seleção de geometrias temporárias e exibição de geometrias salvas em banco.
-![alt text](/images/image-2.png)
+![alt text](/blob/image-2.png)
 
 #### Hard Skills
 - Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core;

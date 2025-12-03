@@ -3,7 +3,7 @@
 **4º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dashflow-2025-1)**  
 **Empresa Parceira:** [Youtan](https://youtan.com.br/)
 
-![alt text](/images/imageYouthan.png)
+![alt text](/blob/imageYouthan.png)
 
 O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de gestão de projetos Taiga, com o intuito de gerar e visualizar indicadores relacionados ao andamento de projetos. A plataforma deve fornecer um dashboard que permita a extração e análise de métricas importantes, como a quantidade de cards criados e finalizados em um período, tempo médio de execução de cards, distribuição de cards por colaborador, e outros indicadores relevantes para a gestão de projetos. A plataforma deve oferecer diferentes níveis de acesso para usuários, como Operador, Gestor e Admin, garantindo que cada perfil tenha acesso apenas às informações pertinentes ao seu papel. O projeto visa facilitar a visualização e o monitoramento do progresso dos projetos, tornando o processo mais eficiente, transparente e acessível para todos os envolvidos.
 
@@ -33,13 +33,13 @@ O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de ge
 
 #### Contribuições Pessoais
 - Desenvolvi diversos componentes do front-end, como a SideBar, formulário de criação de usuários, tabela de usuários, etc..
--  ![img.png](images/imgYtDash.png) ![img.png](images/imgYtDashUserTable.png)
+-  ![img.png](imgYtDash.png) ![img.png](imgYtDashUserTable.png)
 
 - Implementei toda a responsividade da aplicação, tornando ela utilizável diversos formatos de telas;
-- ![img.png](images/imgYtRespo1.png) ![img.png](images/imgYtRespo2.png)
+- ![img.png](imgYtRespo1.png) ![img.png](imgYtRespo2.png)
 
 - Criei os componentes de gráficos responsivos e com ações integradas, como os filtros;
-- ![img.png](images/imgYTIssueChart.png)
+- ![img.png](imgYTIssueChart.png)
 - Desenvolvi diversas chamadas a API, recebendo e tratando os dados para utilização nos dashboards;
 - Fui responsável pelo deploy automático, processo que disponibiliza automaticamente a aplicação em um ambiente de produção totalmente diferente do ambiente de desenvolvimento. Realizei diversos ajustes para que a aplicação funcione no banco Oracle (originalmente era em Postgresql);
 - Desenvolvi a tela de Profile, responável por exibir dados básicos do usuário logado;
