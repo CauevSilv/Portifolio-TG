@@ -18,11 +18,12 @@ Minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como
 
 <div align="left">
 
-| **Backend** | **Frontend** | **Bancos de dados** | **Ferramentas** |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/Reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Backend** | **Frontend** | **Bancos de dados** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/Reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
+
 
 ### Meus Projetos
 
@@ -32,7 +33,7 @@ Minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como
 **Empresa Parceira Interna:** PBLTeX
 
 
-O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX com o desafio de desenvolver desenvolver uma aplicação de Avaliação 360° para uso interno da instituição de ensino.
+O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX , que possuia a necessidade de digitalizar o processo de avaliação de sua equipe utilizando o método de avaliação 360.
 
 A solução foi entregue pela equipe de desenvolvimento DevMinds na qual atuei como dev. A aplicação desenvolvida era utilizada via terminal e possuia alguns dashboards com uma interface gráfica simples somente para exibição do gráfico.
 
@@ -78,7 +79,7 @@ O projeto teve os seguintes requisitos:
 **Empresa Parceira Interna:** FATEC
 ![alt text](blob/imageSgtg.png)
 
-O segundo projeto desenvolvido durante a graduação foi proposto pela própria instituição de ensino com o desafio de criar uma ferramenta para gerenciamento de trabalhos de graduação de uso interno da FATEC.
+O segundo projeto desenvolvido durante a graduação foi proposto pela própria instituição de ensino FATEC, que realizava o controle de TG's de forma manual e física. Eles buscavam uma solução digital, que melhorasse a visualização de informações sobre os TG's.
 
 A solução foi entregue pela equipe de desenvolvimento DevMinds na qual atuei como dev. O SGTG (Sistema Gerenciador de Trabalhos de Graduação) é uma aplicação desktop desenvolvida para uso dos professores que ministram as disciplinas de Trabalho de Graduação. O sistema processa dados de formulários Google Forms em formato CSV e automatiza o gerenciamento acadêmico.
 
@@ -129,7 +130,7 @@ O projeto teve os seguintes requisitos:
 
 #### Hard Skills
 
-- Java: desenvolvi conhecimento significativo através do uso complexo da linguagem, o que despertou meu interesse para aprofundamento posterior através de cursos;
+- Java: desenvolvi conhecimento significativo através do uso da linguagem, o que despertou meu interesse para aprofundamento posterior através de cursos/projetos;
 - JavaFX: aprendi os fundamentos da criação de interfaces desktop e integração com a camada de negócio;
 - Spring Boot: primeiro contato profundo com o framework, adquiri conhecimento sobre configuração de projetos, injeção de dependências e conexão com banco de dados;
 - MySQL: realizei operações básicas de DDL e DML para ajustes no schema e queries.
@@ -148,7 +149,7 @@ O projeto teve os seguintes requisitos:
 
 ![Dom rock](/blob/image.png)
 
-O terceiro projeto desenvolvido durante a graduação foi proposto pela empresa-parceira DOM ROCK com o desafio de criar uma solução para configuração de pipelines de dados de forma visual e intuitiva.
+O terceiro projeto desenvolvido durante a graduação foi proposto pela empresa-parceira DOM ROCK . A empresa tinha a necessidade de configurar de forma visual os pipelines utilizados para tratamento de dados, que até o momento eram configurados em arquivos .yml, o que dificultava a visualização dessas configurações.
 
 A solução foi entregue pela equipe de desenvolvimento Wiz na qual atuei como dev. O 'Pipeline Configurator' é uma aplicação web completa desenvolvida com front-end em Vue.js, back-end em Java Spring Boot e banco de dados MySQL.
 
@@ -206,7 +207,8 @@ O projeto teve os seguintes requisitos:
 **Empresa Parceira:** [IT01](https://br.linkedin.com/company/ito1)
 ![alt text](/blob/image-1.png)
 
-O problema aprensetado pela parceira ITO1 foi a criação de uma aplicação para disponibilizar de maneira visual dados de geolocalização provenientes de dispositivos IOT.
+O problema aprensetado pela parceira ITO1 foi a existência de muitos dados geográficos coletados de seus dispositivos IOT, que tinham a necessidade de serem visualizados de maneira intuitiva. O cliente também validava se algum dispositivo permanecia em alguma área específica de forma manual, o que acarretava em gargalos no processo de análise dos dados georeferenciados.
+
 A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados enviados pelo cliente de uma maneira simples e com distinção de tempo entre coordenadas.
 
 ### Funcionalidades
@@ -257,12 +259,15 @@ A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados 
 
 <div align="center"><h1>Youtan Dash</h1></div>
 
-**4º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dashflow-2025-1)**  
+**5º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dashflow-2025-1)**  
 **Empresa Parceira:** [Youtan](https://youtan.com.br/)
 
 ![alt text](/blob/imageYouthan.png)
 
-O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de gestão de projetos Taiga, com o intuito de gerar e visualizar indicadores relacionados ao andamento de projetos. A plataforma deve fornecer um dashboard que permita a extração e análise de métricas importantes, como a quantidade de cards criados e finalizados em um período, tempo médio de execução de cards, distribuição de cards por colaborador, e outros indicadores relevantes para a gestão de projetos. A plataforma deve oferecer diferentes níveis de acesso para usuários, como Operador, Gestor e Admin, garantindo que cada perfil tenha acesso apenas às informações pertinentes ao seu papel. O projeto visa facilitar a visualização e o monitoramento do progresso dos projetos, tornando o processo mais eficiente, transparente e acessível para todos os envolvidos.
+A empresa parceira possuia muitos projetos gerenciados em diversas plataformas e por diversos líderes, o que acarretava em uma sobrecarga de trabalho sempre que era necessário puxar os indicadores de cada um dos projetos. O cliente realizava a extração de dados de forma manual em cada um dos projetos e consolidava eles , gerando um gasto excessivo de tempo em algo que poderia ser automatizado.
+
+A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de uma aplicação que realizava a busca dos dados nas plataformas e projetos desejados pelo cliente, e consolida todas as informações em dashboards visualmente agradáveis e com ótima responsividade, sendo possível de realizar as interações da aplicação também por smartphones. A aplicação também atendia a necessidade de possuir níveis de acesso e gerenciamento de usuários, que possibilitam que mais pessoas da empresa tenham acesso aos dados de forma controlada.
+
 
 ### Funcionalidades
 * Integração com a API do Taiga e do Jira, por meio de um ETL;
@@ -290,13 +295,31 @@ O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de ge
 
 #### Contribuições Pessoais
 - Desenvolvi diversos componentes do front-end, como a SideBar, formulário de criação de usuários, tabela de usuários, etc..
--  ![img.png](blob/imgYtDash.png) ![img.png](blob/imgYtDashUserTable.png)
+    <details>  
+      <summary>Sidebar e formulário para criação de usuários</summary>
+      
+  ![img.png](blob/imgYtDash.png) ![img.png](blob/imgYtDashUserTable.png)
+
+    </details>
+
 
 - Implementei toda a responsividade da aplicação, tornando ela utilizável diversos formatos de telas;
-- ![img.png](blob/imgYtRespo1.png) ![img.png](blob/imgYtRespo2.png)
+    <details>  
+      <summary>Responsividade</summary>
+      
+  ![img.png](blob/imgYtRespo1.png) ![img.png](blob/imgYtRespo2.png)
+
+    </details>
 
 - Criei os componentes de gráficos responsivos e com ações integradas, como os filtros;
-- ![img.png](blob/imgYTIssueChart.png)
+    <details>  
+      <summary>Gráfico de Issues</summary>
+      
+  ![img.png](blob/imgYTIssueChart.png)
+
+
+    </details>
+
 - Desenvolvi diversas chamadas a API, recebendo e tratando os dados para utilização nos dashboards;
 - Fui responsável pelo deploy automático, processo que disponibiliza automaticamente a aplicação em um ambiente de produção totalmente diferente do ambiente de desenvolvimento. Realizei diversos ajustes para que a aplicação funcione no banco Oracle (originalmente era em Postgresql);
 - Desenvolvi a tela de Profile, responável por exibir dados básicos do usuário logado;
@@ -320,3 +343,139 @@ O objetivo do projeto é desenvolver uma plataforma integrada a ferramenta de ge
 - Comunicação: participei das reuniões semanais da equipe para discutir diversos pontos do projeto;
 - Gerenciamento de demandas: negociei demandas com outros membros da equipe para focar me uma demanda maior, e também troquei com outros para ajudá-los em situações parecidas.
 - Gerenciamento de tempo: ganhei ainda mais conehcimento com gerenciamento de tempo com diversas tasks.
+
+
+<div align="center"><h1>Pardal</h1></div>
+
+
+**6º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/manolito-fatec/pardal-2025/)**  
+**Empresa Parceira:** [Pro4Tech](https://www.pro4tech.com.br/)
+
+![img.png](/blob/imgPLogin.png)
+
+O problema apresentado consistia na necessidade de modernização de uma base de dados legada de chamados. Os dados se encontravam em um nível de desorganização que dificultava muito o levantamento de informações. Além disso, o cliente necessitava levantar alguns insights em relação a essa base legada, para auxiliar o time na tomada de decisão sobre aonde aplicar os esforços.
+
+A solução apresentada pela equipe Manolito foi o Pardal, que consiste em uma aplicação completa de visualização de informações centralizadas sobre a base processada. Os dashboards entregues possibilitam a visualização simples e intuitiva de dados sobre a base enquanto o painel de insights oferece informações preditivas sobre os dados, baseados em análises por inteligência artificial. O Pardal ainda garante a anonimização de informações pessoais contidas nos chamados e o LGPD Center, que dispõe de amplas informações para se adequar a LGPD.
+
+### Funcionalidades
+* Modernização da base: Aplicação de anonimização de dados pessoais que estão contidos nos textos dos chamados.
+* Dashboards: Disponibilização de KPI's como o total de chamados, percentual de SLA cumprido e tempo médio de resolução.
+* Insights Preditivos: Painel que disponibiliza ao cliente os insights preditivos gerados por IA, como o volume de tickets futuros, previsão de estouro de SLA por categoria e geração de sugestões de ação baseadas nos dados dos chamados.
+* Filtros avançados: Filtros que permitem ao usuário escolher o período, cliente e produto para visualização dos dashboards.
+* Segurança de Dados: Todos os dados pessoais dos usuários são criptografados e podem ser removidos se o mesmo solicitar.
+* Exportação de Relatórios: Relatórios em PDF ou CSV que levam em conta os filtros para melhor compartilhamento de informações.
+
+### Tecnologias Utilizadas
+
+#### Backend
+- Java: linguagem utilizada na API da aplicação;
+- Spring Boot: framework Java para desenvolvimento das Rest APIs;
+- PostgresSql: sistema de banco de dados relacional utilizados para armazenar dados estruturados utilizados pela aplicação.
+- MongoDB: sistema de banco de dados NoSQL para rápido acesso a dados volumosos dos insights;
+- Docker: ferramenta de gerenciamento de containers. Utilizado para os SGBD's e para o Vault;
+- HashiCorp Vault: aplicação para gerenciamento dos dados criptografados;
+
+#### Frontend
+- HTML: linguagem de programação para criação de páginas Web. Utilizada em todo o front.;
+- CSS: linguagem para aplicação de estilos em códigos HTML. Utilizada para garantir legibilidade e padrão visual em todos os componentes da página Web;
+- TypeScript: linguagem variante de JavaScript que adiciona tipagem ao código. Utilizada para melhor visualização e padronização de código;
+- Vue.js: framework JavaScript para o desenvolvimento de SPA (Single Page Application) e facilitador na criação de códigos reutilzáveis;
+
+#### Ferramentas
+- IntelliJ IDEA: IDE da JetBrains para desenvolvimento Java;
+- WebStorm: IDE da JetBrains focado em front-end. Utilizado para desenvolvimento do front end e para facilitar o debug. Possuí uma ótima integração com o Vue.js;
+- DBeaver: ferramenta utilizada para facilitar a visualização do banco;
+- Figma: ferramenta utilizada para desenvolvimento de Wireframes;
+- Discord: ferramenta para comunicação interna do grupo;
+- Slack: ferramenta para comunicação com o cliente
+
+#### Contribuições Pessoais
+Trabalhei majoritariamente no Backend e Frontend da aplicação, com foco nos DashBoards, gerenciamento de usuários
+e criptografia.
+
+- Desenvolvi o gerenciamento completo do usuário, tanto no Backend quanto no Frontend
+  <details>
+  <summary>Tela de Login</summary>
+  
+    ![imagePLogin.png](blob/imagePLogin.png)
+
+    ![img.png](blob/imgPLoginController.png)
+  </details>
+    <details>  
+      <summary>Tela de Cadastro</summary>
+      
+    ![img.png](blob/imgPCadastro.png)
+
+    ![img.png](blob/imgPCadastroController.png)
+
+    </details>
+  <details>  
+    <summary>Tabela de Usuários</summary>
+
+    ![img.png](blob/imgPUserTable.png)
+    
+    ![img.png](blob/imgPGetAll.png)
+    ![img.png](blob/imgPupdate.png)
+
+    </details>
+
+- Implementei o Spring Security ao projeto, travando endpoints para usuários autenticados.
+  <details>
+  <summary>Security Config</summary>
+  
+    ![alt text](/blob/imgPSecurity.png)
+  </details>
+   
+- Desenvolvi e implementei o serviço de criptografia de dados de usuários, respeitando a LGPD e aumentando a segurança
+dos dados armazenados dos usuários.
+    > A arquitetura utilizada foi baseada no uso do HashicorpVault. Assim que um usuário é criado, seus dados são 
+    criptografados utilizando Envelope Encryption, que utiliza uma combinação de DEK(aleatória) e KEK(gerenciado pelo Vault).
+    Após a criptografia ocorrer, a KEK gerada para cada informação é salva na tabela de usuários enquanto a DEK é salva em um
+    SGBD Postgres separado da conexão da aplicação. A remoção de usuário acarreta somente na exclusão da DEK no SGBD separado,
+    que não é incluído nas rotinas de backup da aplicação, garantindo assim a remoção do dado para sempre.
+  
+  <details>
+  <summary>VaultService</summary>
+
+  ![img.png](blob/imgPVS.png)
+
+  </details>
+  <details>
+  <summary>DekService</summary>
+
+    ![img.png](blob/imgPDKS.png)
+
+  </details>
+  <details>
+  <summary>Tabela AppUser</summary>
+
+  ![img.png](blob/imgPAUT.png)
+
+  </details>
+
+- Desenvolvi a tela dos Termos de Uso, agregando mais segurança para o usuário e respeitando a LGPD;
+  <details>
+  <summary>Termo de Uso</summary>
+
+  ![img.png](blob/imgPTM.png)
+
+  </details>
+
+- Implementei o Frontend dos filtros e de alguns componentes da tela de Dashboard
+
+#### Hard Skills
+- Java: sei fazer com autonomia e consigo ajudar outros membros da equipe;
+- SQL: sei fazer com autonomia e consigo ajudar outros membros da equipe;
+- Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core e consigo ajudar outros membros;
+- Oracle: sei fazer com ajuda/consulta;
+- TypeScript: sei fazer com autonomia e consigo ajudar outros membros;
+- Vue.Js: sei fazer com autonomia e consigo ajudar os outros membros;
+- CI: sei fazer com consulta;
+- Responsividade: sei fazer com autonomia;
+- Docker: sei fazer com autonomia;
+
+#### Soft Skills
+- Flexibilidade: atuei em quase todas as áreas da aplicação, sempre buscando autonomia sem comprometer o trabalho em equipe;
+- Comunicação: participei das reuniões de alinhamento da equipe para discutir diversos pontos do projeto;
+- Iniciativa: tomei a frente do Vault e estudei sua arquitetura para desenvolver uma criptografia completa e segura.
+- Gerenciamento de demandas: trabalhamos em algumas tarefas separando o desenvolvedor responsável pelo back/front, ganhando mais entrosamento e garantindo mais tempo para cara especificidade do projeto.
