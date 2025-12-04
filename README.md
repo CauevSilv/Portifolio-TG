@@ -275,16 +275,22 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 * Gerenciamento de usuários, podendo definir permissões de acordo com o cargo;
 * Integração dos usuários da aplicação com os usuários do Taiga;
 
-#### Tecnologias Utilizadas
-- HTML: linguagem de programação para criação de páginas Web;
-- CSS: linguagem para aplicação de estilos em códigos HTML;
-- TypeScript: linguagem variante de JavaScript que adiciona tipagem ao código;
-- Vue.js: framework JavaScript para o desenvolvimento de SPA (Single Page Application) e facilitador na criação de códigos reutilzáveis;
-- Java: linguagem de programação orientada a objetos;
+### Tecnologias Utilizadas
+
+#### Backend
+- Java: linguagem de programação utilizada para a criação do server;
 - Spring Boot: framework Java para desenvolvimento de Rest APIs;
 - ApacheSpark: ferramenta utilizada para realização do ETL;
 - PostgresSql: banco de dados com schemas para o DW e para a aplicação.
 - Oracle: banco de dados do ambiente de produção;
+
+#### Frontend
+- HTML: linguagem de programação para criação de páginas Web;
+- CSS: linguagem para aplicação de estilos em códigos HTML;
+- TypeScript: linguagem variante de JavaScript que adiciona tipagem ao código;
+- Vue.js: framework JavaScript para o desenvolvimento de SPA (Single Page Application) e facilitador na criação de códigos reutilzáveis;
+
+#### Ferramentas
 - IntelliJ IDEA: IDE para desenvolvimento Java;
 - WebStorm: IDE da JetBrains focado em front-end. Utilizado para desenvolvimento do front end e para facilitar o debug. Possuí uma ótima integração com o Vue.js;
 - Docker: ferramenta de gerenciamento de containers. Utilizado para o deploy;
@@ -327,7 +333,7 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 - Ajustei alguns controllers do backend com dados sem sentido ou incorretos, e também algumas consultas desatualizadas.
 
 #### Hard Skills
-- Java: sei fazer com autonomia;
+- Java: sei fazer com autonomia e consigo ajudar outros membros da equipe;
 - SQL:  sei fazer com autonomia e consigo ajudar outros membros da equipe;
 - Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core e consigo ajudar outros membros;
 - Oracle: sei fazer com ajuda/consulta;
