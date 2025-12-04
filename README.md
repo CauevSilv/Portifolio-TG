@@ -1,20 +1,26 @@
 # Cauê Vieira da Silva
 
 ## Introdução
+![img.png](foto.png)
 
-Tenho 23 anos, estou formando no curso de Banco de Dados na Fatec. Estou atrabalhando a mais de dois anos em uma empresa que disponibiliza softwares para gestão municipal, tendo como clientes as Prefeituras de diversos municípios. Atuo no time de Suporte e Manutenção de Sistemas N1, atendendo diretamente ao cliente e tratando de itens técnicos diretamente nos sistemas de bancos de dados e nas VM's que operam os sistemas.
+Meu nome é Cauê Vieira da Silva, tenho 23 anos e possuo uma formação em Tecnologia da Informação em constante evolução.
+
+Iniciei minha trajetória em 2018 com o curso Técnico em Informática (Colégio Educare). Embora os primeiros contatos com programação tenham me direcionado para outras áreas do TI, em 2023 reafirmei meu foco ao ingressar no curso de Banco de Dados na FATEC São José dos Campos, consolidando meu rumo de carreira.
+
+Minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como Jovem Aprendiz na Manutenção e, rapidamente, demonstrei aptidão para a área de TI, sendo efetivado e migrando para o time de Suporte de TI. Atualmente, atuo na Geopixel como Analista de Suporte e Manutenção de Sistemas. Iniciei como estagiário e fui efetivado em apenas 4 meses, atuando diretamente com Bancos de Dados, VM's e clientes em um ambiente muito movimentado.
 
 ## Contatos
 * [GIT](https://github.com/CauevSilv)
 * [LinkedIn](https://www.linkedin.com/in/caue-vieira-da-silva/)
+* [E-mail](mailto:cauevsilva2002@gmail.com)
 
 ## Meus Principais Conhecimentos
 
 <div align="left">
 
-| **Backend** | **Frontend** | **Bancos de dados** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/Reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Backend** | **Frontend** | **Bancos de dados** | **Ferramentas** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/Reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
