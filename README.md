@@ -405,57 +405,40 @@ e criptografia.
   
     ![imagePLogin.png](blob/imagePLogin.png)
 
-    ![img.png](blob/imgPLoginController.png)
   </details>
     <details>  
       <summary>Tela de Cadastro</summary>
       
     ![img.png](blob/imgPCadastro.png)
-
-    ![img.png](blob/imgPCadastroController.png)
-
     </details>
   <details>  
     <summary>Tabela de Usuários</summary>
 
     ![img.png](blob/imgPUserTable.png)
-    
-    ![img.png](blob/imgPGetAll.png)
-    ![img.png](blob/imgPupdate.png)
 
     </details>
 
 - Implementei o Spring Security ao projeto, travando endpoints para usuários autenticados.
-  <details>
-  <summary>Security Config</summary>
-  
-    ![alt text](/blob/imgPSecurity.png)
-  </details>
    
 - Desenvolvi e implementei o serviço de criptografia de dados de usuários, respeitando a LGPD e aumentando a segurança
 dos dados armazenados dos usuários.
-    > A arquitetura utilizada foi baseada no uso do HashicorpVault. Assim que um usuário é criado, seus dados são 
+    > Assim que um usuário é criado, seus dados são 
     criptografados utilizando Envelope Encryption, que utiliza uma combinação de DEK(aleatória) e KEK(gerenciado pelo Vault).
     Após a criptografia ocorrer, a KEK gerada para cada informação é salva na tabela de usuários enquanto a DEK é salva em um
     SGBD Postgres separado da conexão da aplicação. A remoção de usuário acarreta somente na exclusão da DEK no SGBD separado,
-    que não é incluído nas rotinas de backup da aplicação, garantindo assim a remoção do dado para sempre.
+    que não é incluído nas rotinas de backup da aplicação, garantindo assim a remoção do dado de forma definitiva.
   
-  <details>
-  <summary>VaultService</summary>
-
-  ![img.png](blob/imgPVS.png)
-
-  </details>
-  <details>
-  <summary>DekService</summary>
-
-    ![img.png](blob/imgPDKS.png)
-
-  </details>
   <details>
   <summary>Tabela AppUser</summary>
 
   ![img.png](blob/imgPAUT.png)
+
+  </details>
+  
+  <details>
+  <summary>Tabela Dek</summary>
+  
+  ![img.png](blob/img.png)
 
   </details>
 
