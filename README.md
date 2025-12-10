@@ -232,19 +232,40 @@ A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados 
 
 #### Contribuições Pessoais
 - Desenvolvi o componente principal do projeto, que contém o mapa interativo;
-  <img width="1904" height="950" alt="image" src="https://github.com/user-attachments/assets/be6d8649-7d92-44ef-b345-d08c9702e8e9" />
+  <details>  
+  <summary>Mapa</summary>
+
+  ![alt text](/blob/imgpgpp.png)
+
+    </details>
 
 - Desenvolvi os métodos utilizados para interação de dados com o mapa, como a exibição de geometrias;
-  <img width="1252" height="904" alt="image" src="https://github.com/user-attachments/assets/71549b11-9012-4ce8-af18-9210ac17e54d" />
+  
+    <details>  
+      <summary>Desenho</summary>
 
+  ![alt text](/blob/imgpg3.png)
+
+    </details>
 - Criei os métodos que permitiam a criação/edição de geometrias diretamente pelo mapa, salvando-as no banco;
-  <img width="1812" height="887" alt="image" src="https://github.com/user-attachments/assets/4205f523-2e88-45ba-915e-fb59731d25ad" />
+
+    <details>  
+      <summary>Persistência</summary>
+  
+    ![alt text](/blob/imgpg2.png)
+
+    </details>
 
 - Criei os métodos que realizavam operações espaciais entre as geometrias salvas de forma visual.
 
 - Desenvolvi diversas chamadas a API , recebendo e tratando os dados geométricos e temporais em objetos gráficos no mapa;
 - Desenvolvi o componente de controle das ferramentas de edição, possibilitando a troca de ferramentas, seleção de geometrias temporárias e exibição de geometrias salvas em banco.
+    <details>  
+      <summary>Edição</summary>
+
   ![alt text](/blob/image-2.png)
+
+    </details>
 
 #### Hard Skills
 - Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core;
