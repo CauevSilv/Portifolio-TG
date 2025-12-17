@@ -5,9 +5,9 @@
 
 Meu nome é Cauê Vieira da Silva, tenho 23 anos e possuo uma formação em Tecnologia da Informação em constante evolução.
 
-Iniciei minha trajetória em 2018 com o curso Técnico em Informática (Colégio Educare). Embora os primeiros contatos com programação tenham me direcionado para outras áreas do TI, em 2023 reafirmei meu foco ao ingressar no curso de Banco de Dados na FATEC São José dos Campos, consolidando meu rumo de carreira.
+Iniciei a minha trajetória em 2018 com o curso Técnico em Informática (Colégio Educare). Embora os primeiros contatos com programação tenham me direcionado para outras áreas do TI, em 2023 reafirmei meu foco ao ingressar no curso de Banco de Dados na FATEC São José dos Campos, consolidando meu rumo de carreira.
 
-Minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como Jovem Aprendiz na Manutenção e, rapidamente, demonstrei aptidão para a área de TI, sendo efetivado e migrando para o time de Suporte de TI. Atualmente, atuo na Geopixel como Analista de Suporte e Manutenção de Sistemas. Iniciei como estagiário e fui efetivado em apenas 4 meses, atuando diretamente com Bancos de Dados, VM's e clientes em um ambiente muito movimentado.
+A minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como Jovem Aprendiz na Manutenção e, rapidamente, demonstrei aptidão para a área de TI, sendo efetivado e migrando para o time de Suporte de TI. Atualmente, atuo na Geopixel como Analista de Suporte e Manutenção de Sistemas. Iniciei como estagiário e fui efetivado em apenas 4 meses, atuando diretamente com Bancos de Dados, VM's e clientes em um ambiente muito movimentado.
 
 ## Contatos
 * [GIT](https://github.com/CauevSilv)
@@ -30,10 +30,12 @@ Minha experiência profissional começou em 2020 na CAOA Chery, onde entrei como
 <div align="center"><h1>eVal360</h1></div>
 
 **1º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub - client](https://github.com/CauevSilv/DevMinds)**  
-**Empresa Parceira Interna:** PBLTeX
+**Empresa Parceira Interna:** PBLTeX  
+**Papel: Dev**
 
 
-O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX , que possuia a necessidade de digitalizar o processo de avaliação de sua equipe utilizando o método de avaliação 360.
+O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX, que realizavam avaliações 360 em sua equipe e coletavam esses resultados de forma manual, em papel.
+Isso impossibilitava o gerenciamento dessas avaliações de forma rápida e em abundância.
 
 A solução foi entregue pela equipe de desenvolvimento DevMinds na qual atuei como dev. A aplicação desenvolvida era utilizada via terminal e possuia alguns dashboards com uma interface gráfica simples somente para exibição do gráfico.
 
@@ -70,8 +72,8 @@ O projeto teve os seguintes requisitos:
 - Python: aprendi o basico sobre as funções do python e sobre a leitura/escrita de arquivos CSV.
 
 #### Soft Skills
-- Comunicação com a equipe: melhorei minha capacidade de interação com a equipe;
-- Gerenciamento de tempo: com o SCRUM, aprendi a lidar melhor com o tempo estipulado das tarefas.
+- Comunicação com a equipe: realização de reuniões para alinhamento das demandas;
+- Gerenciamento de tempo: com o SCRUM, aprendi a lidar melhor com o tempo estipulado das tarefas. Em um momento precisei assumir a demanda de ajuste do UTF-8 para liberar mais tempo para outro membro da equipe montar os gráficos. 
 
 <div align="center"><h1>SGTG - Sistema Gerenciador de Trabalhos de Graduação</h1></div>
 
