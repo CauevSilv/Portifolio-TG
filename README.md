@@ -79,9 +79,10 @@ O projeto teve os seguintes requisitos:
 
 **2º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/API-2-Semestre-DevMinds)**  
 **Empresa Parceira Interna:** FATEC
+**Papel: Dev**
 ![alt text](blob/imageSgtg.png)
 
-O segundo projeto desenvolvido durante a graduação foi proposto pela própria instituição de ensino FATEC, que realizava o controle de TG's de forma manual e física. Eles buscavam uma solução digital, que melhorasse a visualização de informações sobre os TG's.
+O segundo projeto desenvolvido durante a graduação foi proposto pela própria instituição de ensino FATEC, que realizava o controle de TG's de forma manual e física. Isso causava atrasos no gerenciamento de TG's, aumentava a possibilidade de erros e aumentava a ineficiência geral do processo.
 
 A solução foi entregue pela equipe de desenvolvimento DevMinds na qual atuei como dev. O SGTG (Sistema Gerenciador de Trabalhos de Graduação) é uma aplicação desktop desenvolvida para uso dos professores que ministram as disciplinas de Trabalho de Graduação. O sistema processa dados de formulários Google Forms em formato CSV e automatiza o gerenciamento acadêmico.
 
@@ -140,19 +141,20 @@ O projeto teve os seguintes requisitos:
 #### Soft Skills
 
 - Comunicação: intensifiquei o contato direto com o Product Owner devido à situação da equipe, desenvolvendo melhor compreensão das necessidades do cliente e aprimorando habilidades de comunicação em contexto profissional;
-- Gestão sob pressão: aprendi a lidar com sobrecarga de tarefas e prazos apertados, assumindo responsabilidades adicionais e priorizando entregas críticas;
-- Adaptabilidade: precisei assumir múltiplas funções e ajustar tarefas incompletas de outros membros, desenvolvendo flexibilidade e capacidade de resolução rápida de problemas;
+- Gestão sob pressão: aprendi a lidar com sobrecarga de tarefas e prazos apertados, assumindo responsabilidades adicionais e priorizando entregas críticas. Tivemos percas de membros do grupo durante a terceira e quarta sprint, o que sobrecarregou os demais membros.;
+- Adaptabilidade: precisei assumir múltiplas funções e ajustar tarefas incompletas de outros membros, desenvolvendo flexibilidade e capacidade de resolução rápida de problemas. Justamente por conta da sobrecarga, tiver que utilizar ferramentas que não estavam nas minhas tarefas das sprints.;
 - Senso de responsabilidade: mantive o compromisso com a qualidade das entregas mesmo diante das adversidades da equipe.
 
 <div align="center"><h1>PipeLine Configurator</h1></div>
 
 **3º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dom-rock-pipeline-configurator)**  
 **Empresa Parceira:** [DOM ROCK](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.domrock.net/&ved=2ahUKEwifuoi1gNSNAxUvrpUCHXTLPNQQFnoECAoQAQ&usg=AOvVaw17UNge8A_1VmMQvlxEoiHq)
+**Papel: Dev**
 
 ![Dom rock](/blob/image.png)
 
-O terceiro projeto desenvolvido durante a graduação foi proposto pela empresa-parceira DOM ROCK . A empresa tinha a necessidade de configurar de forma visual os pipelines utilizados para tratamento de dados, que até o momento eram configurados em arquivos .yml, o que dificultava a visualização dessas configurações.
-
+O terceiro projeto desenvolvido durante a graduação foi proposto pela empresa-parceira DOM ROCK.
+A empresa configurava arquivos '.yalm' para tratamento de dados em conforme zonas virtuais em suas aplicações. Os '.yalm' eram configurados de forma manual e não são tão intuitivos, requerendo mão de obra muito especializada na arquitetura para poder ajustar qualquer ponto.
 A solução foi entregue pela equipe de desenvolvimento Wiz na qual atuei como dev. O 'Pipeline Configurator' é uma aplicação web completa desenvolvida com front-end em Vue.js, back-end em Java Spring Boot e banco de dados MySQL.
 
 O projeto teve os seguintes requisitos:
@@ -197,8 +199,8 @@ O projeto teve os seguintes requisitos:
 
 #### Soft Skills
 
-- Trabalho em equipe: executei as tarefas distribuídas de acordo com as habilidades de cada membro e ofereci suporte aos colegas com dificuldades, promovendo a colaboração sem centralizar responsabilidades;
-- Comunicação: mantive a equipe atualizada através de dailies, sprint reviews e reuniões periódicas;
+- Trabalho em equipe: executei as tarefas distribuídas conforme as habilidades de cada membro e ofereci suporte aos colegas com dificuldades, promovendo a colaboração sem centralizar responsabilidades. Ajudei alguns membros da equipe a atuar com o Vue.js, que era um framework novo para todos, mas eu tinha tomado a frente para aprender mais sobre front;
+- Comunicação: mantive a equipe atualizada por dailies, sprint reviews e reuniões periódicas;
 - Iniciativa: propus ferramentas e soluções que foram incorporadas ao longo do desenvolvimento do projeto;
 - Solução de problemas: desenvolvi e implementei regras de negócio complexas na camada de serviços;
 - Pensamento analítico: realizei análise e tratamento de dados estruturando objetos para facilitar o consumo pelas camadas superiores da aplicação.
@@ -207,9 +209,10 @@ O projeto teve os seguintes requisitos:
 
 **4º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub - client](https://github.com/CauevSilv/web-client-2024-2-GeoIOT) • [ server](https://github.com/CauevSilv/web-server-2024-2-GeoIOT)**  
 **Empresa Parceira:** [IT01](https://br.linkedin.com/company/ito1)
+**Papel: Dev**
 ![alt text](/blob/image-1.png)
 
-O problema aprensetado pela parceira ITO1 foi a existência de muitos dados geográficos coletados de seus dispositivos IOT, que tinham a necessidade de serem visualizados de maneira intuitiva. O cliente também validava se algum dispositivo permanecia em alguma área específica de forma manual, o que acarretava em gargalos no processo de análise dos dados georeferenciados.
+O problema aprensetado pela parceira ITO1 foi a existência de muitos dados geográficos coletados de seus dispositivos IOT, que tinham a necessidade de serem visualizados de maneira intuitiva. O cliente também validava se algum dispositivo permanecia em alguma área específica de forma manual, o que acarretava gargalos no processo de análise dos dados georeferenciados.
 
 A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados enviados pelo cliente de uma maneira simples e com distinção de tempo entre coordenadas.
 
@@ -277,17 +280,17 @@ A equipe Manolito desenvolveu o GeoIot, que exibia de maneira gráfica os dados 
 - OpenLayers: seu fazer com consulta;
 
 #### Soft Skills
-- Iniciativa: tomei a frente do front-end do projeto com os componentes complexos.
+- Iniciativa: tomei a frente do front-end do projeto com os componentes complexos. Nesse período eu trabalhava em uma empresa que tinha como carro chefe exatamente esse tipo de produto, então conceitos de geoprocessamento aplicada ao código já eram de meu interesse. Eu já possuía certa familiaridade com as principais bibliotecas e métodos para esse tipo de solução.
 - Comunicação: auxiliei o time ensinando como funcionam as relações espaciais e algumas lógicas simples (CONTAINS, TRANSFORM, etc..)
 
 <div align="center"><h1>Youtan Dash</h1></div>
 
 **5º Semestre • Projeto Integrador Fatec-SJC • [Repositório GitHub](https://github.com/CauevSilv/dashflow-2025-1)**  
 **Empresa Parceira:** [Youtan](https://youtan.com.br/)
-
+**Papel: Dev**
 ![alt text](/blob/imageYouthan.png)
 
-A empresa parceira possuia muitos projetos gerenciados em diversas plataformas e por diversos líderes, o que acarretava em uma sobrecarga de trabalho sempre que era necessário puxar os indicadores de cada um dos projetos. O cliente realizava a extração de dados de forma manual em cada um dos projetos e consolidava eles , gerando um gasto excessivo de tempo em algo que poderia ser automatizado.
+A empresa parceira possuia muitos projetos gerenciados em diversas plataformas e por diversos líderes, o que acarretava uma sobrecarga de trabalho sempre que era necessário puxar os indicadores de cada um dos projetos. O cliente realizava a extração de dados de forma manual em cada um dos projetos e consolidava eles gerando um gasto excessivo de tempo em um processo que tem como foco final o ganho de eficiência das equipes.
 
 A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de uma aplicação que realizava a busca dos dados nas plataformas e projetos desejados pelo cliente, e consolida todas as informações em dashboards visualmente agradáveis e com ótima responsividade, sendo possível de realizar as interações da aplicação também por smartphones. A aplicação também atendia a necessidade de possuir níveis de acesso e gerenciamento de usuários, que possibilitam que mais pessoas da empresa tenham acesso aos dados de forma controlada.
 
@@ -295,13 +298,13 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 ### Funcionalidades
 * Integração com a API do Taiga e do Jira, por meio de um ETL;
 * Dashboards dinâmicos e responsivos, projetados até para celulares;
-* Gerenciamento de usuários, podendo definir permissões de acordo com o cargo;
+* Gerenciamento de usuários, podendo definir permissões conforme o cargo;
 * Integração dos usuários da aplicação com os usuários do Taiga;
 
 ### Tecnologias Utilizadas
 
 #### Backend
-- Java: linguagem de programação utilizada para a criação do server;
+- Java: linguagem de programação utilizada para a criação do servidor;
 - Spring Boot: framework Java para desenvolvimento de Rest APIs;
 - ApacheSpark: ferramenta utilizada para realização do ETL;
 - PostgresSql: banco de dados com schemas para o DW e para a aplicação.
@@ -351,13 +354,13 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 
 - Desenvolvi diversas chamadas a API, recebendo e tratando os dados para utilização nos dashboards;
 - Fui responsável pelo deploy automático, processo que disponibiliza automaticamente a aplicação em um ambiente de produção totalmente diferente do ambiente de desenvolvimento. Realizei diversos ajustes para que a aplicação funcione no banco Oracle (originalmente era em Postgresql);
-- Desenvolvi a tela de Profile, responável por exibir dados básicos do usuário logado;
+- Desenvolvi a tela de Profile, responsive por exibir dados básicos do usuário logado;
 - Implementei o gerenciamento de estado com o Pinia.
 - Ajustei alguns controllers do backend com dados sem sentido ou incorretos, e também algumas consultas desatualizadas.
 
 #### Hard Skills
 - Java: sei fazer com autonomia e consigo ajudar outros membros da equipe;
-- SQL:  sei fazer com autonomia e consigo ajudar outros membros da equipe;
+- SQL: sei fazer com autonomia e consigo ajudar outros membros da equipe;
 - Spring Boot: sei fazer com autonomia, tanto a parte de Security quanto o Core e consigo ajudar outros membros;
 - Oracle: sei fazer com ajuda/consulta;
 - TypeScript: sei fazer com autonomia e consigo ajudar outros membros;
@@ -367,11 +370,11 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 - Docker: sei fazer com autonomia;
 
 #### Soft Skills
-- Iniciativa: tomei a frente do front-end do projeto com os componentes complexos, responsividade e fui responsável pelo deploy;
+- Iniciativa: tomei a frente do front-end do projeto com os componentes complexos, responsividade e fui responsável pelo deploy. Tomei a frente do deploy, pois já possuia certa familiaridade com linux e arquitetura de soluções, o que me dava uma ideia de como deveria ser o resultado no servidor.
 - Flexibilidade: atuei em todas as áreas da aplicação, sempre buscando autonomia sem comprometer o trabalho em equipe;
 - Comunicação: participei das reuniões semanais da equipe para discutir diversos pontos do projeto;
-- Gerenciamento de demandas: negociei demandas com outros membros da equipe para focar me uma demanda maior, e também troquei com outros para ajudá-los em situações parecidas.
-- Gerenciamento de tempo: ganhei ainda mais conehcimento com gerenciamento de tempo com diversas tasks.
+- Gerenciamento de demandas: negociei demandas com outros membros da equipe para focar me uma demanda maior, e também troquei com outros para ajudá-los em situações parecidas. O deploy ocupou muito mais tempo que o planejado, pois a aplicação rodava com o banco Postgresql, enquanto o ambiente de produção tinha Oracle como SGBD.
+- Gerenciamento de tempo: ganhei ainda mais conhecimento com gerenciamento de tempo com diversas tasks. Tasks mais simples me permitiram focar mais na responsividade dos componentes de cada task sem comprometer outras tarefas.
 
 
 <div align="center"><h1>Pardal</h1></div>
@@ -382,7 +385,7 @@ A equipe Manolito desenvolveu a plataforma Youtan Dash, que era constítuida de 
 
 ![img.png](/blob/imgPLogin.png)
 
-O problema apresentado consistia na necessidade de modernização de uma base de dados legada de chamados. Os dados se encontravam em um nível de desorganização que dificultava muito o levantamento de informações. Além disso, o cliente necessitava levantar alguns insights em relação a essa base legada, para auxiliar o time na tomada de decisão sobre aonde aplicar os esforços.
+O problema apresentado pela Pro4Tech se tratada de uma base de dados de chamados inutilizada e fora dos padrões. A base continha dados muito valiosos sobre quantidades de problemas nas aplicações e relatos que poderiam se tornar oportunidade de melhorias. A base ainda continha diversos dados pessoais dos usuários expostas em texto plano.
 
 A solução apresentada pela equipe Manolito foi o Pardal, que consiste em uma aplicação completa de visualização de informações centralizadas sobre a base processada. Os dashboards entregues possibilitam a visualização simples e intuitiva de dados sobre a base enquanto o painel de insights oferece informações preditivas sobre os dados, baseados em análises por inteligência artificial. O Pardal ainda garante a anonimização de informações pessoais contidas nos chamados e o LGPD Center, que dispõe de amplas informações para se adequar a LGPD.
 
@@ -487,7 +490,7 @@ dos dados armazenados dos usuários.
 - Docker: sei fazer com autonomia;
 
 #### Soft Skills
-- Flexibilidade: atuei em quase todas as áreas da aplicação, sempre buscando autonomia sem comprometer o trabalho em equipe;
+- Flexibilidade: atuei em quase todas as áreas da aplicação, sempre buscando autonomia sem comprometer o trabalho em equipe. Na maioria das minhas tasks, atuei montando tanto a lógica do endpoint, como o recebimento, tratamento e exibição dos dados em componentes visuais.
 - Comunicação: participei das reuniões de alinhamento da equipe para discutir diversos pontos do projeto;
-- Iniciativa: tomei a frente do Vault e estudei sua arquitetura para desenvolver uma criptografia completa e segura.
+- Iniciativa: tomei a frente do Vault e estudei sua arquitetura para desenvolver uma criptografia completa e segura. 
 - Gerenciamento de demandas: trabalhamos em algumas tarefas separando o desenvolvedor responsável pelo back/front, ganhando mais entrosamento e garantindo mais tempo para cara especificidade do projeto.
